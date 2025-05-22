@@ -1,0 +1,342 @@
+{
+  "basics": {
+    "name": "Amar LAMKADEM",
+    "label": "DevOps Engineer | Freelance",
+    "image": "https://lamar-devrush.github.io/assets/images/amar.jpg",
+    "email": "contact@luvnco.co",
+    "phone": "+33 7 61 36 17 01",
+    "url": "https://lamar-devrush.github.io",
+    "summary": "I am a passionate and experienced DevOps professional specializing in solving production deployment challenges and optimizing development environments. My expertise extends to creating robust and reproducible environments for renowned companies. I have significant experience with technologies and methodologies such as Kubernetes, Helm, Gitlab, Datadog, Sentry, SonarCloud, Ansible, Terraform, and many others. My career has allowed me to work with companies such as Eleven Labs, Coffreo, KeyOpsTech, Trusk, and Télémaque. Currently seeking new freelance opportunities, I am ready to bring my expertise to your project and help your team overcome DevOps-related challenges.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Draguignan",
+      "countryCode": "FR",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "devrushit",
+        "url": "https://github.com/devrushit"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "amarlamkadem",
+        "url": "https://www.linkedin.com/in/%E2%98%81%EF%B8%8F-amar-l-67b59425/"
+      },
+      {
+        "network": "Twitter",
+        "username": "@devrushit",
+        "url": "https://twitter.com/devrushit"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Optimy",
+      "position": "DevOps Engineer | Freelance",
+      "url": "",
+      "startDate": "2024-10-01",
+      "endDate": "2025-05-01",
+      "summary": "At Optimy, I took on various responsibilities related to infrastructure and CI/CD pipelines. I worked on migrating the legacy GoCD infrastructure to Bitbucket Pipelines, with detailed migration roadmap planning. I also developed a FluxCD POC with image building for different non-production environments up to production. An important part of my mission was to completely migrate domain name registrars from GoDaddy to Route53 and Cloudflare, ensuring more efficient and secure management. I supported and guided the development team on complex database performance issues with PHP, providing them with optimization solutions and methodologies.",
+      "highlights": [
+        "Migration of legacy GoCD infrastructure to Bitbucket Pipelines",
+        "Implementation of FluxCD POC for multi-environment image building",
+        "Complete migration of registrars from GoDaddy to Route53 and Cloudflare",
+        "Debugging and resolving production issues",
+        "Supporting developers on database performance optimization with PHP",
+        "Technologies: AWS, Terraform, Kubernetes, Helm, GoCD, Bitbucket Pipelines, FluxCD"
+      ]
+    },
+    {
+      "name": "Eleven Labs",
+      "position": "DevOps Engineer | Freelance",
+      "url": "",
+      "startDate": "2022-10-01",
+      "endDate": "2024-09-01",
+      "summary": "I collaborated with Eleven Labs, an IT Services Company, for a client in the education sector. My main mission was to keep the various production applications up to date. I also worked on improving the release cycle by managing the four non-prod environments as well as the production environment. A significant part of my work involved reducing the technical debt accumulated over two years in the infrastructure. Additionally, I was responsible for performance optimization and implementing innovative solutions to enhance system stability and scalability.",
+      "highlights": [
+        "Maintaining production applications",
+        "Improving the release cycle",
+        "Managing technical debt",
+        "Performance optimization and innovative solutions",
+        "Technologies: GCP, Jenkins, Helm, Docker, AWS, Terraform, Ansible"
+      ]
+    },
+    {
+      "name": "Coffreo",
+      "position": "DevOps Engineer | Freelance",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "2022-09-01",
+      "summary": "Coffreo was undergoing restructuring and aimed to accelerate its DevOps efforts. Lacking internal expertise in k8s/helm technologies, my mission was to meet short deadlines for the complete migration of Coffreo's applications to OVH-managed k8s clusters using CI/CD and helm packaging. I also worked on implementing proactive monitoring to identify and resolve potential issues before they affect end-users.",
+      "highlights": [
+        "Complete migration of applications to managed k8s clusters",
+        "Implementing proactive monitoring",
+        "Technologies: Docker, Helm, Gitlab, Datadog, Sentry, SonarCloud, backup, etcd, OVH, HELM"
+      ]
+    },
+    {
+      "name": "KeyOpsTech",
+      "position": "DevOps Engineer | Freelance",
+      "url": "",
+      "startDate": "2021-09-01",
+      "endDate": "2022-06-01",
+      "summary": "Support and maintenance of infrastructure on GCP. Mainly updating pipelines, adding new projects, and debugging existing projects. Evening and weekend contract at the rate of one day per week. I also worked on cost optimization by evaluating and adjusting cloud resources to ensure efficient usage without compromising performance.",
+      "highlights": [
+        "Maintaining and updating pipelines",
+        "Debugging and supporting existing projects",
+        "Cloud cost optimization",
+        "Technologies: Gitlab CI, Docker, Helm, GCP, Ansible, Terraform"
+      ]
+    },
+    {
+      "name": "Trusk",
+      "position": "DevOps | Full-Time",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2022-07-01",
+      "summary": "Trusk was at a critical stage for European expansion, with the goal of industrializing our tech to have a sustainable and robust infrastructure. My missions were varied, including consolidating the infrastructure, implementing Chaos Engineering and Zero Trust practices, and migrating microservices to Kubernetes with Helm. I also implemented disaster recovery strategies to ensure continuity of operations in case of a major incident.",
+      "highlights": [
+        "Homogenizing infrastructure and migrating to GCP",
+        "Implementing IaC via Terraform",
+        "Database performance optimization",
+        "Implementing disaster recovery strategies",
+        "Technologies: Kubernetes, GCP, Ansible, Helm, Terraform, Saltstack, AWS, DigitalOcean"
+      ]
+    },
+    {
+      "name": "Telemaque",
+      "position": "DevOps | Full-Time",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "",
+      "summary": "The company Télémaque undertook a major project in 2018 to change all old working methodologies. We moved from several unversioned codebases to complex and easily maintainable microservice applications. We migrated to the cloud with Google (GCP) to manage our park with VM instances, Cloud SQL, BigTable, and managed services. Additionally, I introduced agile development practices to enhance collaboration between development and operations teams.",
+      "highlights": [
+        "Installing and securing Jenkins",
+        "Continuous Integration / Continuous Deployment with Jenkins pipelines",
+        "Migrating to the cloud (GCP)",
+        "Introduction of agile development practices",
+        "Technologies: Docker, Kubernetes, Helm, GCP, Jenkins, Terraform"
+      ]
+    },
+    {
+      "name": "Telemaque",
+      "position": "Backend Developer | Full-Time",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Handing over and managing a home-built CRM project following a departure. Managing our call reminder application to automate the telephone call workflow (Phoning, Callback, Client Appointment, Disputes) in multiple countries. Creating various applications to facilitate email communication to our users. I also implemented stringent security procedures to protect user data and ensure compliance with regulations.",
+      "highlights": [
+        "Symfony",
+        "Laravel",
+        "MySQL",
+        "RabbitMQ",
+        "Implementing security procedures"
+      ]
+    },
+    {
+      "name": "W3C2I",
+      "position": "Developer Intern",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "summary": "Apprenticeship contract. Good knowledge of Joomla and Prestashop CMS. I also participated in collaborative development projects, working closely with multidisciplinary teams to deliver innovative solutions.",
+      "highlights": [
+        "Joomla! programming: components, modules, and plugins",
+        "Prestashop programming: extensions, templates",
+        "Technical and functional tests (Qunit)",
+        "Writing detailed functional specifications",
+        "Putting websites into production",
+        "Processing maintenance tickets",
+        "Developing a real-time notification application for an RSE",
+        "Integrating Photoshop mockups",
+        "Customer relationship",
+        "Participation in collaborative development projects"
+      ]
+    },
+    {
+      "name": "SportCleek",
+      "position": "CTO",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "",
+      "summary": "Technical management of an offshore development team for the implementation of our multi-sports application. In addition to overseeing the technical aspects, I was also involved in defining the strategic vision and product roadmap to align development efforts with business goals.",
+      "highlights": [
+        "Developing and managing an online video conversion tool",
+        "Overseeing technical aspects",
+        "Defining strategic vision and product roadmap",
+        "Technologies: Nginx, MySQL, Docker Swarm, Kubernetes, Istio"
+      ]
+    },
+    {
+      "name": "Self",
+      "position": "Freelance",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "",
+      "summary": "Developing and managing an online video conversion tool in mp3/mp4. High-traffic site (+1M visitors per month). In addition to my technical skills, I also led digital marketing initiatives to increase site visibility and attract a larger user base.",
+      "highlights": [
+        "Optimizing nginx, MySQL, server to support high traffic",
+        "Installing and managing conversion servers",
+        "SEO",
+        "Digital marketing to increase visibility"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "IUT 2 Grenoble",
+      "url": "",
+      "area": "Computer Systems and Software",
+      "studyType": "Work-Study Bachelor's Degree",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée de Lorgues",
+      "url": "",
+      "area": "Network Computing",
+      "studyType": "BTS",
+      "startDate": "2014-01-01",
+      "endDate": "2015-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée de Lorgues",
+      "url": "",
+      "area": "Electronic Engineering",
+      "studyType": "Baccalaureate STI",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Containers & Orchestration",
+      "level": "Advanced",
+      "keywords": ["Docker", "Kubernetes", "Helm"]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Advanced",
+      "keywords": ["Jenkins", "Gitlab CI", "Github Actions"]
+    },
+    {
+      "name": "Cloud",
+      "level": "Advanced",
+      "keywords": ["GCP", "AWS", "DigitalOcean", "OVH"]
+    },
+    {
+      "name": "Infrastructure as Code",
+      "level": "Advanced",
+      "keywords": ["Terraform", "Ansible"]
+    },
+    {
+      "name": "Monitoring & Logging",
+      "level": "Advanced",
+      "keywords": ["Datadog", "ELK", "Sentry"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["Python", "JavaScript", "PHP", "Node.js", "Java", "Bash"]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": ["PostgreSQL", "MySQL", "MongoDB", "ElasticSearch"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Advanced",
+      "keywords": ["Laravel", "Symfony"]
+    },
+    {
+      "name": "Professional Skills",
+      "level": "Advanced",
+      "keywords": ["Effective communication", "Team player", "Strong problem solver", "Good time management"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Bilingual proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "High-Tech",
+      "keywords": []
+    },
+    {
+      "name": "Football",
+      "keywords": []
+    },
+    {
+      "name": "Photography",
+      "keywords": []
+    },
+    {
+      "name": "Travelling",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "PointMp3/PointMp4",
+      "description": "Developing and managing an online video conversion tool in mp3/mp4. High-traffic site (+1M visitors per month).",
+      "highlights": [
+        "High-performance video processing",
+        "Handling 1M+ visitors per month",
+        "SEO optimization"
+      ],
+      "keywords": ["video conversion", "high-traffic"],
+      "startDate": "2016-01-01",
+      "endDate": "",
+      "url": "https://www.pointmp3.com",
+      "roles": ["Developer", "Administrator"],
+      "entity": "Self",
+      "type": "application"
+    },
+    {
+      "name": "RugbyCleek",
+      "description": "Multi-channel article aggregator to be first on information in the world of rugby. The platform is designed to be duplicated for multiple markets.",
+      "highlights": [
+        "Real-time content aggregation",
+        "Scalable platform architecture"
+      ],
+      "keywords": ["content aggregation", "rugby"],
+      "startDate": "2018-01-01",
+      "endDate": "",
+      "url": "https://www.rugbycleek.com",
+      "roles": ["CTO", "Developer"],
+      "entity": "SportCleek",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "theme": "elegant",
+    "version": "v1.0.0",
+    "lastModified": "2023-10-16T17:00:00"
+  }
+} 
